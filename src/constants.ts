@@ -16,4 +16,5 @@ export const STORYBLOK_JS_CLIENT_AGENT = {
   defaultAgentName: 'SB-JS-CLIENT',
   defaultAgentVersion: 'SB-Agent-Version',
   packageVersion: '6.0.0',
+  randomNewKey: 'SB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-ValueSB-Agent-Random-New-Value',
 };
